@@ -10,7 +10,7 @@ const attractions = [
   {
     title: "The Broad Museum",
     description:
-      "Contemporary art museum founded by philanthropists Eli and Edythe Broad in downtown Los Angeles. Designed by Diller Scofidio + Renfro in collaboration with Gensler, the museum offers free general admission and is home to more than 2,000 works of art.",
+      "Contemporary art museum founded by philanthropists Eli and Edythe Broad in DTLA. Designed by Diller Scofidio + Renfro and Gensler, the museum is home to 2,000+ works of art and is FREE.",
     link: "https://www.thebroad.org/visit",
     image: "broad.jpg",
     className: "w-third-l ml5-l"
@@ -32,9 +32,9 @@ const attractions = [
     className: "w-40-l ml5-l mr5-l"
   },
   {
-    title: "CINESPIA at The Hollywood Forever Cemetery",
+    title: "CINESPIA at Hollywood Forever Cemetery",
     description:
-      "For more than 15 years, thousands have flocked to the burial ground behind Paramount Studios to watch movie classics abd favorites. Bring a low chair, drinks, snacks, and friends!",
+      "For 15+ years, tons have flocked to the burial ground behind Paramount Studios to watch movie classics and faves. Bring a low chair, drinks, snacks, and friends!",
     image: "hollywoodforever.jpg",
     className: "w-40-l",
     link: "http://cinespia.org//"
@@ -50,7 +50,7 @@ const attractions = [
   {
     title: "Los Angeles FC",
     description:
-      "Newest MLS soccer club serving the greater LA area. LAFC has received thriving fan support since its opening game from a core of several thousand hard-core fans and many others drawn to the franchise by its impressive marketing and Bradley’s attractive style of play.",
+      "Newest MLS soccer club serving the LA area. LAFC has received thriving support since its opening game from hard-core fans and many others for their attractive style of play and impressive marketing.",
     link: "https://www.lafc.com/",
     image: "lafc.jpg",
     className: "w-third-l ml-auto-l mr5-l"
