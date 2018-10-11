@@ -36,7 +36,7 @@ const NavItem = ({ className, href, children, logo }) => (
   <li className={`mh2-ns f6 f4-l tc ${className}`}>
     <a className="white no-underline" href={href}>
       {logo ? (
-        <img src="../images/lostinla.jpg" className="cb center logo" />
+        <img src="images/lostinla.jpg" className="cb center logo" />
       ) : (
         children
       )}
@@ -46,7 +46,7 @@ const NavItem = ({ className, href, children, logo }) => (
 
 const ImageItem = ({ className, link, children, image }) => (
   <a className="white no-underline" href={link}>
-    {image ? <img src={`../images/${image}`} className="db" /> : children}
+    {image ? <img src={`images/${image}`} className="db" /> : children}
   </a>
 );
 
